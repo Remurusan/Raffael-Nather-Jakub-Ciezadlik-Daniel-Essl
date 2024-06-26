@@ -1,0 +1,20 @@
+name: Deploy to GitHub Pages
+
+on:
+  push: 
+    branches: [ release ] # is triggered if push event in release branch occurs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # run ubuntu
+
+    steps:
+    - uses: actions/checkout@v2 # checkout your repo - this is an official action provided by GitHub
+
+    - name: Run a multi-line script
+      run: |
+        echo test the checkout action,
+        ls -a
+        ls -lah
+        top
+        
