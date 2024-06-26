@@ -37,8 +37,8 @@ export default {
 **Input**
 
 ```md
-::: info
-This is an info box.
+::: Hallo
+Hallo das bin ich
 :::
 
 ::: tip
@@ -60,23 +60,23 @@ This is a details block.
 
 **Output**
 
-::: Cinfo
-This is an info box.
+::: info
+Das ist keine Info.
 :::
 
-::: Btip
-This is a tip.
+::: tip
+Es gibt keinen Tipp.
 :::
 
-::: Hwarning
-This is a warning.
+::: warning
+Keine Angst.
 :::
 
-::: Tdanger
-This is a dangerous warning.
+::: danger
+Gefahr.
 :::
 
-::: Adetails
+::: details
 This is a details block.
 :::
 
