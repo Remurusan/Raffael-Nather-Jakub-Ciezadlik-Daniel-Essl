@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Anton Horvath
-    details: gschiedn bin i heast
-  - title: Maaaaxxl
-    details: schleich di gschissana
-  - title: servas
-    details: wie gehts
+  - title: Anton Horvath bester mann
+    details: bergbauern kakao is beste
+  - title: Maaaaxxl2222
+    details: wos schaust so depat heast
+  - title: servas !=?
+    details: wie gehts da hwarar
 ---
 
