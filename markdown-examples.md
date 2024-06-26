@@ -76,7 +76,7 @@ Keine Angst.
 Gefahr.
 :::
 
-::: Adetails
+::: details
 Detail Block this is.
 :::
 
