@@ -60,7 +60,7 @@ This is a details block.
 
 **Output**
 
-::: info
+::: Cinfo
 This is an info box.
 :::
 
