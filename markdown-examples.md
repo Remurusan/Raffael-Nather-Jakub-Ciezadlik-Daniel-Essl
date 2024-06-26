@@ -77,7 +77,7 @@ Gefahr.
 :::
 
 ::: Adetails
-This is a details block.
+Detail Block this is.
 :::
 
 ## More
