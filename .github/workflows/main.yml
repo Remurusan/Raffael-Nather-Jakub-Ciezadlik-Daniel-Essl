@@ -6,6 +6,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest # run ubuntu
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout
@@ -20,5 +24,16 @@ jobs:
         run: npm i
 
       - name: Build project files
-        run: npm run docs:build
+        run: npm run docs:build # creates a /dist directory with build files
 
+      - name: Setup GH Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: .vitepress/dist # path to build files directory
+
+      - name: Deploy to GH Pages # deploy
+        id: deployment
+        uses: actions/deploy-pages@v1
