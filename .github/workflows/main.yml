@@ -3,18 +3,22 @@ name: Deploy to GitHub Pages
 on:
   push: 
     branches: [ release ] # is triggered if push event in release branch occurs
-
 jobs:
   build:
     runs-on: ubuntu-latest # run ubuntu
 
     steps:
-    - uses: actions/checkout@v2 # checkout your repo - this is an official action provided by GitHub
+      - name: Checkout
+        uses: actions/checkout@v2 # checkout your repo - this is an official action provided by GitHub
 
-    - name: Run a multi-line script
-      run: |
-        echo test the checkout action,
-        ls -a
-        ls -lah
-        top
-        
+      - name: Set up Node environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm i
+
+      - name: Build project files
+        run: npm run docs:build
+
