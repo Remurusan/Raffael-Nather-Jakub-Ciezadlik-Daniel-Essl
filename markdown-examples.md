@@ -73,11 +73,11 @@ This is a warning.
 :::
 
 ::: danger
-This is a dangerous warning.
+T  his is a not so dangerous warning.
 :::
 
 ::: details
-This is a details block.
+Block of Details this is.
 :::
 
 ## More
