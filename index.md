@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Anton Horvath
+    details: gschiedn bin i heast
+  - title: Maaaaxxl
+    details: schleich di gschissana
+  - title: servas
+    details: wie gehts
 ---
 
