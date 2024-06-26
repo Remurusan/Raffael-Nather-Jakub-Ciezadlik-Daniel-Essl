@@ -69,7 +69,7 @@ Tipp 4 Tipp dir den Kick.
 :::
 
 ::: warning
-Keine Angst.
+NUr Angst.
 :::
 
 ::: danger
