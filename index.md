@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Anton Horvath bester mann
-    details: bergbauern kakao is beste
-  - title: Maaaaxxl2222
-    details: wos schaust so depat heast
+    details: schiass da eine n soft
+  - title: Maxxxxl
+    details: ATV Wir leben im Gemeindebau
   - title: servas !=?
-    details: wie gehts da hwarar
+    details: wie gehts da hawara
 ---
 
