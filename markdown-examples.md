@@ -26,7 +26,7 @@ export default {
 export default {
   data () {
     return {
-      msg: 'Highlighted!'
+      msg: 'Highlighted! AnToN HorVAtH war HIER OIDAAAAc !'
     }
   }
 }
