@@ -15,7 +15,7 @@ hero:
       link: /api-examples
 
 features:
-  - title: Anton Horvath bester mann
+  - title: ´Horvath Anton, najo gschied'n bin i
     details: schiass da eine n soft
   - title: Maxxxxl
     details: ATV Wir leben im Gemeindebau
