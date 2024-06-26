@@ -60,24 +60,24 @@ This is a details block.
 
 **Output**
 
-::: info
+::: Cinfo
 This is an info box.
 :::
 
-::: tip
+::: Btip
 This is a tip.
 :::
 
-::: warning
+::: Hwarning
 This is a warning.
 :::
 
 ::: danger
-This is a dangerous warning.
+T  his is a not so dangerous warning.
 :::
 
 ::: details
-This is a details block.
+Block of Details this is.
 :::
 
 ## More
