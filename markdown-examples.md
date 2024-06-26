@@ -65,7 +65,7 @@ Das ist keine Info.
 :::
 
 ::: tip
-Tipp 3 Tipp dir den Kick.
+Tipp 4 Tipp dir den Kick.
 :::
 
 ::: warning
