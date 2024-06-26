@@ -26,7 +26,7 @@ export default {
 export default {
   data () {
     return {
-      msg: 'Highlighted!'
+      msg: 'Highlighted! AnToN HorVAtH war HIER OIDAAAAc !'
     }
   }
 }
@@ -60,15 +60,15 @@ This is a details block.
 
 **Output**
 
-::: info
+::: Cinfo
 This is an info box.
 :::
 
-::: tip
+::: Btip
 This is a tip.
 :::
 
-::: warning
+::: Hwarning
 This is a warning.
 :::
 
