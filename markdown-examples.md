@@ -64,19 +64,19 @@ This is a details block.
 This is an info box.
 :::
 
-::: tip
+::: Btip
 This is a tip.
 :::
 
-::: warning
+::: Hwarning
 This is a warning.
 :::
 
-::: danger
+::: Tdanger
 This is a dangerous warning.
 :::
 
-::: details
+::: Adetails
 This is a details block.
 :::
 
