@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "Simple VitePress Site",
+  base: "Raffael-Nather-Jakub-Ciezadlik-Daniel-Essl",
   title: "Simple VitePress Site",
   description: "Training Page for Cloud Computing Course",
   themeConfig: {
